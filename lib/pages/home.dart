@@ -1,4 +1,4 @@
-import 'dart:ui';
+// import 'dart:ui';
 
 import 'package:dashboard_template/components/coordinator_layout.dart';
 import 'package:dashboard_template/components/header.dart';
@@ -81,7 +81,7 @@ class _HomePageState extends State<HomePage> {
               items: menus
                   .map((e) => BottomNavigationBarItem(
                         icon: Icon(e.icon),
-                        title: Text(e.title),
+                        label: e.title,
                       ))
                   .toList(),
             ),
