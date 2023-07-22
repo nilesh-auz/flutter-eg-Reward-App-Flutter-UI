@@ -1,6 +1,6 @@
-import 'package:dashboard_template/dummies/transaction.dart';
-import 'package:dashboard_template/entities/transaction.dart';
-import 'package:dashboard_template/helpers/colors.dart';
+import 'package:rewards/dummies/transaction.dart';
+import 'package:rewards/entities/transaction.dart';
+import 'package:rewards/helpers/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 

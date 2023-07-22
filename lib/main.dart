@@ -1,5 +1,5 @@
-import 'package:dashboard_template/pages/home.dart';
-import 'package:dashboard_template/pages/transaction.dart';
+import 'package:rewards/pages/home.dart';
+import 'package:rewards/pages/transaction.dart';
 import 'package:flutter/material.dart';
 
 void main() {

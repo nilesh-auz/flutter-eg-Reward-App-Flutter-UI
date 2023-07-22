@@ -1,4 +1,4 @@
-import 'package:dashboard_template/components/header.dart';
+import 'package:rewards/components/header.dart';
 import 'package:flutter/material.dart';
 
 class CoordinatorLayout extends StatefulWidget {

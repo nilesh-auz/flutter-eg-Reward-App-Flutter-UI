@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:dashboard_template/entities/transaction.dart';
+import 'package:rewards/entities/transaction.dart';
 import 'package:fl_chart/fl_chart.dart';
 
 Random random = Random();

@@ -1,11 +1,11 @@
 // import 'dart:ui';
 
-import 'package:dashboard_template/components/coordinator_layout.dart';
-import 'package:dashboard_template/components/header.dart';
-import 'package:dashboard_template/dummies/transaction.dart';
-import 'package:dashboard_template/views/categories.dart';
-import 'package:dashboard_template/views/items.dart';
-import 'package:dashboard_template/views/summary_chart.dart';
+import 'package:rewards/components/coordinator_layout.dart';
+import 'package:rewards/components/header.dart';
+import 'package:rewards/dummies/transaction.dart';
+import 'package:rewards/views/categories.dart';
+import 'package:rewards/views/items.dart';
+import 'package:rewards/views/summary_chart.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

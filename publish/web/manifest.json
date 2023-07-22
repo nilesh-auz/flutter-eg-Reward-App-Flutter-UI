@@ -1,6 +1,6 @@
 {
-    "name": "dashboard_template",
-    "short_name": "dashboard_template",
+    "name": "rewards",
+    "short_name": "rewards",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-package com.example.dashboard_template
+package com.nilesh.auz.rewards
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,4 +1,4 @@
-import 'package:dashboard_template/helpers/colors.dart';
+import 'package:rewards/helpers/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
